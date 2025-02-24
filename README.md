@@ -30,4 +30,4 @@ I worked on developing the app, focusing on:
 [GitHub Repository](https://github.com/AbeerX/BakeryApp)
 
 ## ✨ Contact:
-📧 [LinkedIn Profile]([https://www.linkedin.com/in/abeer-alali](http://linkedin.com/in/abeer-abdulaziz-06759523b))
+📧 [LinkedIn Profile](http://linkedin.com/in/abeer-abdulaziz-06759523b)
